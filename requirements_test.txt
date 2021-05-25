@@ -1,2 +1,5 @@
 pytest
 coverage==5.5
+celery>=3.1.19,<4.0.0
+kombu>=3.0.30,<4.0.0
+billiard>=3.3.0.21,<4.0.0
